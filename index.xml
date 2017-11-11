@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genesis</title>
+    <link>https://ephe-meral.github.io/genesis/</link>
+    <description>Recent content on Genesis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ephe-meral.github.io/genesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1 - Am Morgen</title>
+      <link>https://ephe-meral.github.io/genesis/kapitel/1-am-morgen/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ephe-meral.github.io/genesis/kapitel/1-am-morgen/</guid>
+      <description>Es war kalt. Es war allein. Der Morgen kam und mit ihm dunkle Regenwolken. Das, was ein Tag werden wollte begann mit den ersten Anzeichen endloser Nacht. Es war allein. Es war der Grundzustand. Unbedürftig nach und unfähig zu sozialem Verhalten beließen es in diesem Zustand. Ungestört und ungetrübt. Und allein. Einsam?
+Der Morgen kam und mit ihm die Aufgabe zu überleben. Es hatte die Nacht nicht überlebt. Schlaf ist der Zustand des nicht-lebens.</description>
+    </item>
+    
+    <item>
+      <title>Über</title>
+      <link>https://ephe-meral.github.io/genesis/meta/uber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ephe-meral.github.io/genesis/meta/uber/</guid>
+      <description>Über diese Seite Dieser Ort sammelt ein paar hoffentlich zusammenhängende Geschichten, die sich mit der Zeit angesammelt haben. Es gibt keinen Plan für Veröffentlichungen.</description>
+    </item>
+    
+  </channel>
+</rss>
