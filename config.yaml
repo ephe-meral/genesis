@@ -1,0 +1,22 @@
+languageCode: de-de
+baseurl: https://ephe-meral.github.io/genesis
+title: Genesis
+
+publishdir: public
+
+theme: novel
+
+permalinks:
+  chapter: /kapitel/:slug/
+  page: /meta/:slug/
+
+params:
+  Description: >
+    Der Anfang.
+
+    Roman in kleinen Kapiteln mit unregelmäßigen Updates.
+    Verfasst durch Johanna Appel.
+
+  Email: malumdiscordiae@mailbox.org
+  TwitterUsername: ephe_meral
+  GitHubUsername: ephe-meral
