@@ -12,13 +12,33 @@
     
     
     <item>
-      <title>1 - Am Morgen</title>
-      <link>https://ephe-meral.github.io/genesis/kapitel/1-am-morgen/</link>
+      <title>0 - Vorwort</title>
+      <link>https://ephe-meral.github.io/genesis/kapitel/0-vorwort/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
+      <guid>https://ephe-meral.github.io/genesis/kapitel/0-vorwort/</guid>
+      <description>Diese Website ist eine Sammlung an experimentellen Kurzgeschichten. Zusammen ergeben sie eine kleine Geschichte vom Anfang.
+Obwohl oft Begriffe aus der Bibel verwendet werden, oder Teile des Textes direkt daran angelehnt sind, ist dies kein religiöses Werk. Vielmehr ist die Bibel - die ich nie gelesen habe - ein Gedankenanstoß. Was wäre wenn wir es einfach nicht richtig verstanden hätten? Wenn die Geschichte anders hätte erzählt werden müssen? Wenn es keinen Gott gibt, sondern alles einfach mit Wissenschaft erklärt werden kann?</description>
+    </item>
+    
+    <item>
+      <title>1 - Am Morgen</title>
+      <link>https://ephe-meral.github.io/genesis/kapitel/1-am-morgen/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://ephe-meral.github.io/genesis/kapitel/1-am-morgen/</guid>
-      <description>Es war kalt. Es war allein. Der Morgen kam und mit ihm dunkle Regenwolken. Das, was ein Tag werden wollte begann mit den ersten Anzeichen endloser Nacht. Es war allein. Es war der Grundzustand. Unbedürftig nach und unfähig zu sozialem Verhalten beließen es in diesem Zustand. Ungestört und ungetrübt. Und allein. Einsam?
-Der Morgen kam und mit ihm die Aufgabe zu überleben. Es hatte die Nacht nicht überlebt. Schlaf ist der Zustand des nicht-lebens.</description>
+      <description>Es war kalt. Es war allein. Der Morgen kam und mit ihm dunkle Regenwolken. Das, was ein Tag werden wollte begann mit den ersten Anzeichen endloser Nacht. Es war allein. Es war der Grundzustand. Unfähigkeit und Unmöglichkeit zu sozialem Verhalten beließen es in diesem Zustand. Ungestört und ungetrübt. Und allein. Einsam?
+Der Morgen kam und mit ihm die Aufgabe zu leben. Es hatte die Nacht nicht überlebt. Im Gegenteil. Schlaf ist sein Zustand des Todes.</description>
+    </item>
+    
+    <item>
+      <title>2 - Wenn die Zeit vergeht</title>
+      <link>https://ephe-meral.github.io/genesis/kapitel/2-wenn-die-zeit-vergeht/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ephe-meral.github.io/genesis/kapitel/2-wenn-die-zeit-vergeht/</guid>
+      <description>Aber Leben hatte existiert. In einiger Entfernung, zeitlich und räumlich. An einem helleren, wärmeren Ort. Da, wo es sich per Zufall entwickeln kann, wo die Ressourcen reichlich sind. In seiner Existenz hatte es sich ausgebreitet. Alle Nischen besetzt. Und es ward nicht zufrieden mit sich und seiner Umgebung. Stattdessen wurde es Stolz auf seine eigene Existenz.
+Das Leben. Das Zentrum jeglicher Entwicklung. Aus dem Stolz wurde Überheblichkeit, und aus dieser heraus entwickelte sich der Verfall.</description>
     </item>
     
   </channel>
