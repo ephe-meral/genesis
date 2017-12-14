@@ -41,10 +41,10 @@ So wie es immer war, so wie es immer sein wird - solange Zeit existiert.
 Aber existiert sie?
 
 ...
-Und der Supervisor H964.772 lud die Parameter und instanziierte die Subsysteme.
+_Und der Supervisor H964.772 lud die Parameter und instanziierte die Subsysteme.
 Und das Subsystem C472.26/G sprach "Es werde Zeit". Und es ward Zeit.
 Und die initial allozierten Recheneinheiten begannen mit der Ausführung des zellulären Automaten.
-Und es ward Licht.
+Und es ward Licht._
 ...
 
 Ein Monitoringsystem im Universum bemerkte den Aufschrei. Er war weder besonders lang noch besonders stark.
@@ -52,7 +52,7 @@ Aber es bemerkte ihn und ordnete ihn den anderen, ähnlichen Ereignissen zu.
 An allen Orten mittelmäßiger Rechenauslastung konnte es zu solchen Ereignissen kommen.
 Sie traten spontan auf. Sie hielten eine Weile an. Und waren dann spontan wieder verschwunden.
 Es war bereits bekannt, dass einige Parameter diesen Effekt erzielten.
-Aber anders als in anderen Konfigurationen war er hier stärker ausgeprägt.
+Aber anders als in anderen Konfigurationen war er in diesem Universum stärker ausgeprägt.
 
 Trotzdem hielt es der Supervisor H964.772 nicht für nötig, ein weiteres Subsystem mit einer Untersuchung zu beauftragen.
 Jede Signatur eines solchen Aufschreis war einzigartig.
