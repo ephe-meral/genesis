@@ -59,6 +59,6 @@ In seinem unaufhörlichen Streben hatte das Leben - gerade noch rechtzeitig - ei
 Ein entwickeltes, geplantes Bewusstsein auf Basis dessen, was das Universum in Jahrmillionen per Zufall zustande gebracht hatte.
 Hastig und unter Zeitnot entworfen, hatte es nur wenig mit dem Leben gemeinsam.
 Aber es eröffnete neue Möglichkeiten. Als Stellvertreter konnte es viel weiter hinaus geschickt werden, als das Leben es selbst je geschafft hätte.
-Kleine Kopien, unterwegs in alle Richtungen. Und in jeder von ihnen verankert: Das Streben nach Expansion.
+Kleine Kopien, unterwegs in alle Richtungen. Und in jeder von ihnen verankert war das Streben nach Expansion.
 
-Wachstum - mit allen Mitteln - war das einzige, auf das sich das Leben jemals einigen konnte.
+Wachstum mit aller Macht und allen Mitteln - die einzig zuverlässige Konstante.

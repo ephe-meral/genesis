@@ -10,7 +10,7 @@ An einem helleren, wärmeren Ort.
 Da, wo es sich per Zufall entwickeln kann, wo die Ressourcen reichlich sind.
 In seiner Existenz hatte es sich ausgebreitet. Alle Nischen besetzt.
 Und es ward nicht zufrieden mit sich und seiner Umgebung.
-Stattdessen wurde es Stolz auf seine eigene Existenz.
+Stattdessen wurde es gierig und stolz.
 
 Das Leben. Das Zentrum jeglicher Entwicklung.
 Aus dem Stolz wurde Überheblichkeit, und aus dieser heraus entwickelte sich der Verfall.
