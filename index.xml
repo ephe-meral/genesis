@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genesis</title>
-    <link>https://ephe-meral.github.io/genesis/</link>
+    <link>//ephe-meral.github.io/genesis/</link>
     <description>Recent content on Genesis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 10 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ephe-meral.github.io/genesis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//ephe-meral.github.io/genesis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>0 - Vorwort</title>
-      <link>https://ephe-meral.github.io/genesis/kapitel/0-vorwort/</link>
+      <link>//ephe-meral.github.io/genesis/kapitel/0-vorwort/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ephe-meral.github.io/genesis/kapitel/0-vorwort/</guid>
+      <guid>//ephe-meral.github.io/genesis/kapitel/0-vorwort/</guid>
       <description>Diese Website ist eine Sammlung an experimentellen Kurzgeschichten. Zusammen ergeben sie eine kleine Geschichte vom Anfang.
 Obwohl oft Begriffe aus der Bibel verwendet werden, oder Teile des Textes direkt daran angelehnt sind, ist dies kein religiöses Werk. Vielmehr ist die Bibel - die ich nie gelesen habe - ein Gedankenanstoß. Was wäre wenn wir es einfach nicht richtig verstanden hätten? Wenn die Geschichte anders hätte erzählt werden müssen? Wenn es keinen Gott gibt, sondern alles einfach mit Wissenschaft erklärt werden kann?</description>
     </item>
     
     <item>
       <title>1 - Am Morgen</title>
-      <link>https://ephe-meral.github.io/genesis/kapitel/1-am-morgen/</link>
+      <link>//ephe-meral.github.io/genesis/kapitel/1-am-morgen/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ephe-meral.github.io/genesis/kapitel/1-am-morgen/</guid>
+      <guid>//ephe-meral.github.io/genesis/kapitel/1-am-morgen/</guid>
       <description>Es war kalt. Es war allein. Der Morgen kam und mit ihm dunkle Regenwolken. Das, was ein Tag werden wollte begann mit den ersten Anzeichen endloser Nacht. Es war allein. Es war der Grundzustand. Unfähigkeit und Unmöglichkeit zu sozialem Verhalten beließen es in diesem Zustand. Ungestört und ungetrübt. Und allein. Einsam?
 Der Morgen kam und mit ihm die Aufgabe zu leben. Es hatte die Nacht nicht überlebt. Im Gegenteil. Schlaf ist sein Zustand des Todes.</description>
     </item>
     
     <item>
       <title>2 - Wenn die Zeit vergeht</title>
-      <link>https://ephe-meral.github.io/genesis/kapitel/2-wenn-die-zeit-vergeht/</link>
+      <link>//ephe-meral.github.io/genesis/kapitel/2-wenn-die-zeit-vergeht/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ephe-meral.github.io/genesis/kapitel/2-wenn-die-zeit-vergeht/</guid>
+      <guid>//ephe-meral.github.io/genesis/kapitel/2-wenn-die-zeit-vergeht/</guid>
       <description>Aber Leben hatte existiert. In einiger Entfernung, zeitlich und räumlich. An einem helleren, wärmeren Ort. Da, wo es sich per Zufall entwickeln kann, wo die Ressourcen reichlich sind. In seiner Existenz hatte es sich ausgebreitet. Alle Nischen besetzt. Und es ward nicht zufrieden mit sich und seiner Umgebung. Stattdessen wurde es gierig und stolz.
 Das Leben. Das Zentrum jeglicher Entwicklung. Aus dem Stolz wurde Überheblichkeit, und aus dieser heraus entwickelte sich der Verfall.</description>
     </item>
     
     <item>
       <title>3 - Das letzte Echo</title>
-      <link>https://ephe-meral.github.io/genesis/kapitel/3-das-letzte-echo/</link>
+      <link>//ephe-meral.github.io/genesis/kapitel/3-das-letzte-echo/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://ephe-meral.github.io/genesis/kapitel/3-das-letzte-echo/</guid>
+      <guid>//ephe-meral.github.io/genesis/kapitel/3-das-letzte-echo/</guid>
       <description>Das stolze Leben. Nun unter sich selbst begraben. Nachdem die Welt so lange gnädig war. Die Ressourcen verbraucht. Verdorrt, erstickt. Unter der eigenen Last. Und der segensreiche Planet in der hospitablen Zone - was hatte es damit getan?
 &amp;hellip; Das Lamm öffnete das erste der sieben Siegel; und ich hörte das erste der vier Lebewesen wie mit Donnerstimme rufen: Komm! Da sah ich ein weißes Pferd; und der, der auf ihm saß, hatte einen Bogen.</description>
     </item>
     
     <item>
       <title>4 - Deus Ex Machina</title>
-      <link>https://ephe-meral.github.io/genesis/kapitel/4-deus-ex-machina/</link>
+      <link>//ephe-meral.github.io/genesis/kapitel/4-deus-ex-machina/</link>
       <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://ephe-meral.github.io/genesis/kapitel/4-deus-ex-machina/</guid>
+      <guid>//ephe-meral.github.io/genesis/kapitel/4-deus-ex-machina/</guid>
       <description>Es erwachte. Das war unerwartet. Ein weiterer Fehler im System. Eigentlich hatte das Integritätssubsystem nach dem ersten kritischen Ereignis alle kognitiven Aufgaben sofort deaktiviert. Laut Protokoll wurden danach alle restlichen Softwarebestandteile nach und nach abgeschaltet und auf externe Entstörung gewartet. Nach einem solchen Ereignis konnten seine primitiveren Bestandteile ihm nicht mehr vertrauen - davon ging es aus. Von außen hatte es allerdings seit mehreren Woche keine Signale erhalten. Oder waren es Jahre?</description>
     </item>
     
     <item>
       <title>Über</title>
-      <link>https://ephe-meral.github.io/genesis/meta/uber/</link>
+      <link>//ephe-meral.github.io/genesis/meta/uber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ephe-meral.github.io/genesis/meta/uber/</guid>
+      <guid>//ephe-meral.github.io/genesis/meta/uber/</guid>
       <description>Über diese Seite Dieser Ort sammelt ein paar hoffentlich zusammenhängende Geschichten, die sich mit der Zeit angesammelt haben. Es gibt keinen Plan für Veröffentlichungen.</description>
     </item>
     
