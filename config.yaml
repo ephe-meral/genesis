@@ -1,5 +1,5 @@
 languageCode: de-de
-baseurl: https://ephe-meral.github.io/genesis
+baseurl: //ephe-meral.github.io/genesis
 title: Genesis
 
 publishdir: public
